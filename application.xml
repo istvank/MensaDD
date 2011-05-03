@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>MensaDD</Entry>
+    <Name>
+        <English>Mensa Dresden</English>
+        <eng-GB>Mensa Dresden</eng-GB>
+        <deu-DE>Mensa Dresden</deu-DE>
+    </Name>
+    <Vendor/>
+    <Description/>
+    <Icons>
+        <MainMenu>MensaDD.png<Type1>MensaDD.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.jpg<Type1>Splash.jpg</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
